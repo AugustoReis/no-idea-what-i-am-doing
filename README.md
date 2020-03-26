@@ -1,3 +1,5 @@
+[![Run on Repl.it](https://repl.it/badge/github/AugustoReis/no-idea-what-i-am-doing)](https://repl.it/github/AugustoReis/no-idea-what-i-am-doing)
+
 Python ZTM Cheatsheet 💻🚀
 ===============================
 
